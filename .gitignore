@@ -2,4 +2,4 @@ app
 .idea
 docker-compose.yml
 Dockerfile
-dbdata
+db_data
